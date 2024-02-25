@@ -1,0 +1,9 @@
+<resources>
+    <string name="activity1">Activity 1</string>
+    <string name="activity2">Activity 2</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+    <string name="enterNamePlaceholder">Введите имя</string>
+    <string name="student">Колтыга Валерий Евгеньевич, 3-ТИД-7</string>
+    <string name="app_name">multy-lab-3</string>
+</resources>
